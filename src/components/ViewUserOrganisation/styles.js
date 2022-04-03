@@ -31,7 +31,6 @@ const useStyles = makeStyles((theme) => ({
   },
   searchBox: {
     right: "0",
-    fex: "0.8",
   },
   userPosts: {
     position: "absolute",

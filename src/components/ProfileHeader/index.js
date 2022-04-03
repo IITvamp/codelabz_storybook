@@ -92,7 +92,7 @@ const Profile = () => {
           >
             <TextField
               id="outlined-basic"
-              label="Outlined"
+              label="Search Posts"
               variant="outlined"
             />
           </Box>

@@ -85,12 +85,8 @@ const CardComponent = ({
                 className={classes.daysdot}
               />
             }
-            title={
-              <Typography variant="body">
-                3 days ago
-              </Typography>
-            }
-            titleTypographyProps={{ align: "center", marginLeft:"5px" }}
+            title={<Typography variant="body">3 days ago</Typography>}
+            titleTypographyProps={{ align: "center", marginLeft: "5px" }}
           />
         </Grid>
         <CardContent
@@ -123,7 +119,7 @@ const CardComponent = ({
                     color="textPrimary"
                     className={"mr-8 " + classes.tags}
                     label={tag}
-                    style={{marginRight:"5px"}}
+                    style={{ marginRight: "5px" }}
                   >
                     {tag}
                   </Chip>
@@ -143,7 +139,6 @@ const CardComponent = ({
             <Grid item direction="row">
               <Grid item style={{ height: "2rem" }}>
                 <IconButton style={{ color: "red" }}>
-                  <FavoriteIcon />
                 </IconButton>
                 <Typography variant="body" color="textPrimary">
                   222
