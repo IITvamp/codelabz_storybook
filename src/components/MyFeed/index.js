@@ -53,10 +53,10 @@ function MyFeed() {
                   variant="h2"
                   style={{ margin: "10px 0px 40px 0px" }}
                 >
-                  Organisations
+                  Organizations
                 </Typography>
                 <Typography className={classes.subtitle} variant="h1">
-                  Lot of organisations that help you to build your carreer
+                  Lot of Organizations that help you to build your carreer
                 </Typography>
               </Box>
             </Box>
@@ -78,10 +78,10 @@ function MyFeed() {
                   variant="h2"
                   style={{ margin: "10px 0px 40px 0px" }}
                 >
-                  Organisations
+                  Organizations
                 </Typography>
                 <Typography className={classes.subtitle} variant="h1">
-                  Lot of organisations that help you to build your carreer
+                  Lot of Organizations that help you to build your carreer
                 </Typography>
               </Box>
             </Box>
@@ -103,10 +103,10 @@ function MyFeed() {
                   variant="h2"
                   style={{ margin: "10px 0px 40px 0px" }}
                 >
-                  Organisations
+                  Organizations
                 </Typography>
                 <Typography className={classes.subtitle} variant="h1">
-                  Lot of organisations that help you to build your carreer
+                  Lot of Organizations that help you to build your carreer
                 </Typography>
               </Box>
             </Box>
@@ -120,10 +120,10 @@ function MyFeed() {
             O R G A N I S A T I O N S
           </Typography>
           <Typography className={classes.title} variant="h4">
-            Popular Organisations
+            Popular Organizations
           </Typography>
           <Typography className={classes.subtitle} variant="h1">
-            Check out our most poular Organisations that suit for you.
+            Check out our most poular Organizations that suit for you.
           </Typography>
         </Box>
         <Box className={classes.mainContent}>
@@ -163,7 +163,7 @@ function MyFeed() {
                   variant="h2"
                   style={{ marginBottom: "8px" }}
                 >
-                  Organisations
+                  Organizations
                 </Typography>
                 <Typography
                   className={classes.subtitle}
@@ -193,7 +193,7 @@ function MyFeed() {
                   variant="h2"
                   style={{ marginBottom: "8px" }}
                 >
-                  Organisations
+                  Organizations
                 </Typography>
                 <Typography
                   className={classes.subtitle}
@@ -223,7 +223,7 @@ function MyFeed() {
                   variant="h2"
                   style={{ marginBottom: "8px" }}
                 >
-                  Organisations
+                  Organizations
                 </Typography>
                 <Typography
                   className={classes.subtitle}
@@ -288,7 +288,7 @@ function MyFeed() {
                   variant="h2"
                   style={{ marginBottom: "8px" }}
                 >
-                  Organisations
+                  Organizations
                 </Typography>
 
                 <Typography
@@ -329,7 +329,7 @@ function MyFeed() {
                   variant="h2"
                   style={{ marginBottom: "8px" }}
                 >
-                  Organisations
+                  Organizations
                 </Typography>
 
                 <Typography
@@ -369,7 +369,7 @@ function MyFeed() {
                   variant="h2"
                   style={{ marginBottom: "8px" }}
                 >
-                  Organisations
+                  Organizations
                 </Typography>
 
                 <Typography
